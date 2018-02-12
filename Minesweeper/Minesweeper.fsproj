@@ -54,7 +54,6 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Square.fs" />
     <Compile Include="Board.fs" />
-    <Compile Include="Program.fs" />
     <Compile Include="Game.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
