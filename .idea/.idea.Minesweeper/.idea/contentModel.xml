@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Minesweeper.1828742436.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Minesweeper" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Board.fs" t="Include" />
+        <e p="game.fs" t="Include" />
+        <e p="Minesweeper.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+        <e p="square.fs" t="Include" />
+      </e>
+      <e p="Minesweeper.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

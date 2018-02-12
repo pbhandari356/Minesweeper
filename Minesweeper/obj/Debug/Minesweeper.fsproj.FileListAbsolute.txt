@@ -1,0 +1,8 @@
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/bin/Debug/Minesweeper.xml
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/bin/Debug/Minesweeper.exe
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/bin/Debug/FSharp.Core.dll
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/bin/Debug/System.ValueTuple.dll
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/bin/Debug/FSharp.Core.xml
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/obj/Debug/Minesweeper.fsprojResolveAssemblyReference.cache
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/obj/Debug/Minesweeper.fsproj.CoreCompileInputs.cache
+/Users/Bhandari/RiderProjects/Minesweeper/Minesweeper/obj/Debug/Minesweeper.exe
