@@ -9,8 +9,8 @@ open Board
 
 let gameUI() =    
     // constants
-    let Width = 3
-    let Height = 3
+    let Width = 10
+    let Height = 10
     let SquareDim = 30
     let SquareSize = new Size(SquareDim, SquareDim)            
     let NewButtonColor = Color.Gray
