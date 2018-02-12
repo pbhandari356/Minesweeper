@@ -11,7 +11,6 @@
         <e p="Minesweeper.fsproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
-        <e p="Program.fs" t="Include" />
         <e p="square.fs" t="Include" />
       </e>
       <e p="Minesweeper.sln" t="IncludeFlat" />

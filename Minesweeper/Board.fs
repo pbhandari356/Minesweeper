@@ -37,4 +37,4 @@ type Board(height: int, width: int) =
        
     member this.getSquareWeight indx = 
        let s = squares.[indx]
-       if s.isBomb then "*" else string(s.weight)
+       if s.isBomb then "*" elif s.weight = 0 then "" else string(s.weight)
